@@ -1,0 +1,9 @@
+[submodule "PyBoy"]
+	path = PyBoy
+	url = https://github.com/benlagreca02/PyBoy/tree/metroidIIWrapper
+[submodule "Metroid-II-RL"]
+	path = Metroid-II-RL
+	url = https://github.com/benlagreca02/Metroid-II-RL/tree/pufferlib
+[submodule "PufferLib"]
+	path = PufferLib
+	url = https://github.com/benlagreca02/PufferLib/tree/metroid_ii
